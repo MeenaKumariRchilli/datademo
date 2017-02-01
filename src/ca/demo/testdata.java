@@ -5,6 +5,7 @@ public class testdata {
 		System.out.println("hi demo data testing");
 		System.out.println("datademo");
 		System.out.println("demodata");
+		System.out.println("meenukumaridata");
 	}
 
 }
