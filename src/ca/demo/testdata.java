@@ -6,6 +6,7 @@ public class testdata {
 		System.out.println("datademo");
 		System.out.println("demodata");
 		System.out.println("meenukumaridata");
+		System.out.println("minidatah");
 	}
 
 }
